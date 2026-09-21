@@ -1,0 +1,8 @@
+{
+  "appId": "com.globalnews.app",
+  "appName": "全球多平台头条新闻",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
