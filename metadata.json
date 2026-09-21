@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix 全球多平台头条新闻",
+  "description": "汇聚全球各国家与地区（中国大陆、港澳台、新加坡、美德等）主流平台的每日、每周、每月头条新闻，支持偏好推荐、多维排序与详尽新闻阅读。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
